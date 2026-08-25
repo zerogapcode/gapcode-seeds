@@ -1,0 +1,10 @@
+# Gapcode bootstrap peers.
+#
+# Rewritten automatically by contrib/gapcode/crawl-seeds.py. Every address below was
+# verified by connecting to it at the time of writing.
+#
+# One host:port per line. '#' starts a comment.
+#
+# This file is empty until the first node's onion address is pasted in by hand. See
+# README.md in this directory: the crawler needs one way into the network before it
+# can find the rest.
