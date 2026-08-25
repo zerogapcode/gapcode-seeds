@@ -1,8 +1,9 @@
 # Gapcode bootstrap peers.
 #
-# Rewritten automatically by contrib/gapcode/crawl-seeds.py. Every address below was
-# verified by connecting to it at the time of writing.
+# Rewritten automatically by contrib/gapcode/crawl-seeds.py. Every address
+# below was verified by connecting to it at the time of writing.
 #
 # One host:port per line. '#' starts a comment.
+# Last updated: 2026-08-25 20:21 UTC
 
 g6zlmk6znquooqbf25vup4m767xzuz7dlk45i4bbzvqwreeeenynpcid.onion:8641
