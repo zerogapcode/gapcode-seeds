@@ -4,7 +4,5 @@
 # verified by connecting to it at the time of writing.
 #
 # One host:port per line. '#' starts a comment.
-#
-# This file is empty until the first node's onion address is pasted in by hand. See
-# README.md in this directory: the crawler needs one way into the network before it
-# can find the rest.
+
+g6zlmk6znquooqbf25vup4m767xzuz7dlk45i4bbzvqwreeeenynpcid.onion:8641
