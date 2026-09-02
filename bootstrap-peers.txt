@@ -4,6 +4,6 @@
 # below was verified by connecting to it at the time of writing.
 #
 # One host:port per line. '#' starts a comment.
-# Last updated: 2026-09-01 21:13 UTC
+# Last updated: 2026-09-02 16:47 UTC
 
 g6zlmk6znquooqbf25vup4m767xzuz7dlk45i4bbzvqwreeeenynpcid.onion:8641
